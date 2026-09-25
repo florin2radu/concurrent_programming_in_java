@@ -1,0 +1,37 @@
+CLEAN TECH JOKES
+
+1. Why did the programmer bring a ladder to work?
+Because the bug was on a higher level.
+
+2. A database administrator walks into a bar and asks:
+“Can I join you?”
+The tables reply:
+“Only if you have a key.”
+
+3. Why do Java developers wear glasses?
+Because they do not C#.
+
+4. Two threads walk into a café.
+The waiter asks, “Who was first?”
+Both answer, “It depends on the scheduler.”
+
+5. A programmer tells a computer:
+“Give me a break.”
+The computer replies:
+“Sure. InterruptedException.”
+
+6. Why was the function calm under pressure?
+Because it always returned gracefully.
+
+7. A developer tried to explain recursion to a friend.
+The friend asked, “What is recursion?”
+The developer said, “First, let me explain recursion.”
+
+8. Why did the server go to sleep?
+It had too many requests and needed some REST.
+
+9. What did one byte say to the other?
+“See you at the bus.”
+
+10. Why did the concurrency book refuse to rush?
+Because good synchronization takes time.

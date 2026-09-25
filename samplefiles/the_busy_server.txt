@@ -1,0 +1,17 @@
+THE BUSY SERVER
+
+A small web server once handled every request in exactly the same way: one at a time.
+
+When only a few users visited the site, everything seemed fine. A request arrived, the server processed it, sent a response, and then moved to the next request.
+
+One day the site became popular.
+
+A user requested a report that took three seconds to generate. While the server was busy, dozens of other users waited. Some only wanted a tiny status page, but they were stuck behind the long report.
+
+The developers changed the design. Instead of allowing one request to block all the others, the server began processing independent requests concurrently.
+
+This solved one problem but introduced several new ones. Shared counters needed synchronization. Background tasks needed controlled execution. Some operations could run in parallel, while others still had to wait for a database or an external service.
+
+The team learned an important lesson: concurrency is not simply about creating more threads. It is about identifying independent work, coordinating shared state, limiting resource usage, and choosing the right execution model.
+
+The server became faster, but more importantly, its behavior became predictable under load.

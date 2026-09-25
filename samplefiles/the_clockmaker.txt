@@ -1,0 +1,17 @@
+THE CLOCKMAKER OF PRAGUE
+
+In a narrow workshop near the old city square, a clockmaker built mechanisms from brass wheels, springs, pins, and patience.
+
+His favorite clock had three separate mechanisms. One tracked the hour. Another moved a small model of the moon. The third controlled a bell.
+
+Each mechanism could move independently, but they still shared the same structure. If one gear was installed incorrectly, the entire clock could drift out of rhythm.
+
+The clockmaker often explained his work to apprentices with a simple rule:
+
+“Independence is useful. Coordination is essential.”
+
+A gear should turn only when it had room to move. A spring should release energy only at the correct moment. Two mechanisms could operate together, but they could not fight for the same piece of machinery.
+
+Centuries later, software engineers face a surprisingly similar problem. Threads and tasks can make progress independently, but shared resources require careful coordination. Timing matters. Ordering matters. Small mistakes can produce large failures.
+
+The tools have changed from brass gears to processors and memory, but the design principle is still recognizable: complex systems work well when independent parts cooperate under clear rules.

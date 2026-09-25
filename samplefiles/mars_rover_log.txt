@@ -1,0 +1,20 @@
+MARS ROVER: SAMPLE MISSION LOG
+
+08:00 - Power systems report nominal battery levels.
+08:05 - Navigation module receives a route toward Ridge Point Alpha.
+08:11 - Front camera captures a panoramic image of the surrounding terrain.
+08:14 - Scientific instruments begin analyzing a nearby rock sample.
+08:17 - Communication system prepares a data packet for transmission to Earth.
+08:22 - Navigation detects loose soil ahead and requests a route adjustment.
+08:25 - New path approved. Rover moves 4.2 meters east.
+08:31 - Temperature sensor reports a decrease of 3 degrees Celsius.
+08:35 - Spectrometer completes analysis of the first rock sample.
+08:39 - Image compression task finishes.
+08:42 - Communication window opens.
+08:43 - Scientific data, images, and engineering telemetry are transmitted.
+08:51 - Transmission completes successfully.
+08:55 - Rover enters low-power observation mode.
+
+MISSION NOTE
+
+A rover performs many activities that are logically independent: sensing, navigation, data processing, communication, and power management. Some operations can overlap, while others must wait for a shared resource or for another operation to finish. This makes a rover a useful example of a system where coordination matters as much as raw computational speed.

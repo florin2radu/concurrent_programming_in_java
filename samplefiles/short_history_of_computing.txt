@@ -1,0 +1,11 @@
+A SHORT HISTORY OF COMPUTING
+
+Modern computing grew from a long sequence of ideas rather than from one single invention.
+
+In the nineteenth century, Charles Babbage designed mechanical calculating machines, including the Analytical Engine. Although it was never completed in his lifetime, its design contained ideas that resemble parts of modern computers. Ada Lovelace described how such a machine could follow a sequence of operations, and she is often associated with one of the earliest published algorithms intended for a machine.
+
+During the twentieth century, electronic computing developed rapidly. Early machines used vacuum tubes, occupied entire rooms, and consumed enormous amounts of power. Transistors later made computers smaller and more reliable. Integrated circuits placed many electronic components onto a single chip, leading eventually to the microprocessor.
+
+The arrival of personal computers brought computing into homes and offices. Networks connected machines, and the Internet transformed those networks into a global communication system.
+
+Today, computers range from tiny embedded controllers to large data centers. Modern processors contain multiple cores, making concurrency and parallelism central to software design. The basic goal, however, remains familiar: represent information, process it according to precise instructions, and produce useful results.
