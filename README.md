@@ -168,6 +168,7 @@ The book is available in digital format through major publishing platforms.
 - **Amazon Kindle** — coming soon
 - **Leanpub** — https://leanpub.com/concurrentprogramminginjava
 - **Google Play Books** — coming soon
+- **Kobo** — coming soon
 
 ---
 
