@@ -165,7 +165,7 @@ Many concurrency concepts become much clearer when their behavior can be observe
 
 The book is available in digital format through major publishing platforms.
 
-- **Amazon Kindle** — coming soon
+- **Amazon Kindle** — https://www.amazon.com/dp/B0HL73S336
 - **Leanpub** — https://leanpub.com/concurrentprogramminginjava
 - **Google Play Books** — coming soon
 - **Kobo** — coming soon
